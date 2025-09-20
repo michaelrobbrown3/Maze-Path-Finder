@@ -25,6 +25,8 @@ A Python project demonstrating the **A\*** pathfinding algorithm navigating dyna
 
 ## Installation
 
+Open your terminal or command prompt and run:
+
 1. **Clone the repository:**
 
 ```bash
