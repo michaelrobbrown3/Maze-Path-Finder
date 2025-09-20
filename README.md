@@ -55,8 +55,7 @@ python src/main.py
 
 The program uses the **A*** algorithm to calculate the shortest path from start to finish in a grid. The visualization updates in real time as obstacles are added or removed, showing the path recalculation process step by step.
 
-Add or remove wall by clicking on the squares.
-
+Add or remove wall by clicking on the squares.n/
 Click the circle to start it on its journey.
 
 Click the red (end) square to stop the program.
