@@ -22,14 +22,14 @@ if mode == 1:
 
 #mode 2: Start and end are in random positions
 else:
-    randomX=random.randint(0,cols)
-    randomY=random.randint(0,rows)
+    randomX=random.randint(0,cols-1)
+    randomY=random.randint(0,rows-1)
     start_point=[randomX,randomY]
 
     end_point=start_point
     while end_point == start_point:
-        randomX=random.randint(0,cols)
-        randomY=random.randint(0,rows)
+        randomX=random.randint(0,cols-1)
+        randomY=random.randint(0,rows-1)
         end_point = [randomX,randomY]
 
 wallRatio=1/3
@@ -388,4 +388,5 @@ class Board:
 # ------------------------------------------------------------------
 game_instance = Board()
 game_instance.mainloop()
+
 
