@@ -14,9 +14,9 @@ A Python project demonstrating the **A\*** pathfinding algorithm navigating dyna
 
 ---
 
-## Demo / Screenshot
+## Demo
 
-![Demo](assets/demo.gif)  
+![Pathfinding Demo](assets/demo.gif)  
 *Click the circle and it moves from start (green) to end (red). Red dots mark already traversed squares.*
 
 ---
