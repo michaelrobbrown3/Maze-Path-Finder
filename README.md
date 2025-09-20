@@ -28,13 +28,13 @@ A Python project demonstrating the **A\*** pathfinding algorithm navigating dyna
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/pathfinding-project.git
+git clone https://github.com/michaelrobbrown3/Maze-Path-Finder.git
 ```
 
 2. **Navigate to the project folder:**
 
 ```bash
-cd pathfinding-project
+cd Maze-Path-Finder
 ```
 
 3. **Install dependencies:**
@@ -54,6 +54,12 @@ python src/main.py
 ## How it Works
 
 The program uses the **A*** algorithm to calculate the shortest path from start to finish in a grid. The visualization updates in real time as obstacles are added or removed, showing the path recalculation process step by step.
+
+Add or remove wall by clicking on the squares.
+
+Click the circle to start it on its journey.
+
+Click the red (end) square to stop the program.
 
 ---
 
